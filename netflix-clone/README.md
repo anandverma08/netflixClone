@@ -1,6 +1,13 @@
 #Netflix Clone
 - Create React App
 - Install Tailwind
+- Header
+- Routing of App
+- Login Form
+- Sign Up form
+- Form Validation
+- useRef hook
+- Firebase Setup
 
 
 # Features
